@@ -16,7 +16,7 @@ This project explores web crawling, data analysis, and visualization with LLM as
 
 ## Tools & Technologies
 - **Data Acquisition**: aiotieba (by lumina37)
-- **Analysis & Visualization**: [Add your tools here]
+- **Analysis & Visualization**: Python
 
 ## Documentation
 Complete project details are documented in [report.pdf](./report.pdf).
